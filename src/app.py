@@ -170,7 +170,7 @@ app.layout = dbc.Container([
     ]
 )
 def update_graph(radio,conversion,starttime,endtime):
-    #global FX, FX_sorted1, FX_sorted2, layout
+    global FX, layout
     axis_text = "M2 Imbalance (Billions)"
     start = Timestamp(starttime)
     end = Timestamp(endtime)
@@ -223,4 +223,4 @@ def update_graph(radio,conversion,starttime,endtime):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run_server(debug=True)
