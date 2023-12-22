@@ -1,5 +1,5 @@
 # FX-Imbalance-Dashboard
-This Plotly Dashboard explores how growth in M2 Money Supply might be affecting GBP/USD currency exchange rate (CABLE). Find the link to live Google Colab Notebook [**HERE**](https://colab.research.google.com/drive/1m3Gsfx8VUI4z3Z7ry1aZTAwq6HGo5XR8?usp=sharing).
+This Plotly Dashboard explores how growth in M2 Money Supply might be affecting GBP/USD currency exchange rate (CABLE). Find the link to live Google Colab Notebook [**HERE**](https://colab.research.google.com/drive/1m3Gsfx8VUI4z3Z7ry1aZTAwq6HGo5XR8?usp=sharing). The Dashboard is hosted [**HERE**](https://fx-currency-imbalance.onrender.com/).
 
 **Graphic Objective:**
 I wanted to explore alternative visualisation techniques for plotting multivariate time-series data, specifically to move beyond always having time dimension on X-axis. I also wanted to experiment with darker themes.
